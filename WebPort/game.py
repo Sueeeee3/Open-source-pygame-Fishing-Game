@@ -17,7 +17,7 @@ from fishpedia import Fishpedia
 from cutscene import IntroCutscene, EndingCutscene, should_trigger_ending
 import asyncio #Import async 
 
-#Get rid of os.chdir and mouse speed things
+#Get rid of os.chdir and mouse speed settings
 #Make the hardcoded values scale based on settings scaling function
 
 
@@ -475,4 +475,5 @@ class Game:
 
         elif self.state == "game":
             self._draw_game_scene(dt_ms)
+
 
