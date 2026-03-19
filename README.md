@@ -145,7 +145,6 @@ git clone https://github.com/Sueeeee3/Pygame-Fishing-Game.git
 >The commands below are written assuming Python was **not** added to PATH during installation.
 
 
-
 ### Getting started
 
 1. **Install Python** — Download from [python.org](https://www.python.org/downloads/).
@@ -155,7 +154,7 @@ git clone https://github.com/Sueeeee3/Pygame-Fishing-Game.git
    py -m pip install pygame
 ```
 
-
+---
 ### Building an EXE (Windows)
 
 1. **Install auto-py-to-exe**
